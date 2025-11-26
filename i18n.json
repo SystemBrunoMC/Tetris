@@ -1,0 +1,141 @@
+{
+  "lan": ["es", "cn", "en", "fr", "fa"],
+  "default": "es",
+  "data": {
+    "title": {
+      "es": "TETRIS",
+      "cn": "俄罗斯方块",
+      "en": "T E T R I S",
+      "fr": "T E T R I S",
+      "fa": "خانه سازی"
+    },
+
+    "titleCenter": {
+      "es": "TETRIS",
+      "cn": "俄罗斯方块<br />TETRIS",
+      "en": "TETRIS",
+      "fr": "TETRIS",
+      "fa": "خانه سازی"
+    },
+    
+    "point": {
+      "es": "PUNTOS",
+      "cn": "得分",
+      "en": "PUNTOS",
+      "fr": "Score",
+      "fa": "امتیاز"
+    },
+    
+    "highestScore": {
+      "es": "PUNTUACIÓN MÁXIMA",
+      "cn": "最高分",
+      "en": "PUNTUACIÓN MÁXIMA",
+      "fr": "Max",
+      "fa": "حداکثر"
+    },
+    
+    "lastRound": {
+      "es": "RONDA ANTERIOR",
+      "cn": "上轮得分",
+      "en": "RONDA ANTERIOR",
+      "fr": "Dernier Tour",
+      "fa": "آخرین دور"
+    },
+    
+    "cleans": {
+      "es": "FILAS ELIMINADAS",
+      "cn": "消除行",
+      "en": "FILAS ELIMINADAS",
+      "fr": "Lignes",
+      "fa": "پاک کرد"
+    },
+    
+    "level": {
+      "es": "NIVEL",
+      "cn": "级别",
+      "en": "NIVEL",
+      "fr": "Difficulté",
+      "fa": "سطح"
+    },
+    
+    "startLine": {
+      "es": "FILA INICIAL",
+      "cn": "起始行",
+      "en": "FILA INICIAL",
+      "fr": "Ligne Départ",
+      "fa": "خط شروع"
+    },
+    
+    "next": {
+      "es": "SIGUIENTE",
+      "cn": "下一个",
+      "en": "SIGUIENTE",
+      "fr": "Prochain",
+      "fa": "بعدی"
+    },
+    
+    "pause": {
+      "es": "PAUSA",
+      "cn": "暂停",
+      "en": "PAUSA",
+      "fr": "Pause",
+      "fa": "مکث"
+    },
+    
+    "sound": {
+      "es": "SONIDO",
+      "cn": "音效",
+      "en": "SONIDO",
+      "fr": "Sonore",
+      "fa": "صدا"
+    },
+    
+    "reset": {
+      "es": "REINICIAR",
+      "cn": "重玩",
+      "en": "REINICIAR",
+      "fr": "Réinitialiser",
+      "fa": "ریست"
+    },
+    
+    "rotation": {
+      "es": "ROTAR",
+      "cn": "旋转",
+      "en": "ROTAR",
+      "fr": "Rotation",
+      "fa": "چرخش"
+    },
+    
+    "left": {
+      "es": "IZQUIERDA",
+      "cn": "左移",
+      "en": "IZQUIERDA",
+      "fr": "Gauche",
+      "fa": "چپ"
+    },
+    
+    "right": {
+      "es": "DERECHA",
+      "cn": "右移",
+      "en": "DERECHA",
+      "fr": "Droite",
+      "fa": "راست"
+    },
+    
+    "down": {
+      "es": "ABAJO",
+      "cn": "下移",
+      "en": "ABAJO",
+      "fr": "Bas",
+      "fa": "پایین"
+    },
+    
+    "drop": {
+      "es": "CAÍDA",
+      "cn": "掉落",
+      "en": "CAÍDA",
+      "fr": "Tomber",
+      "fa": "سقوط"
+    }
+  }
+}
